@@ -38,4 +38,4 @@ I grew up in Limassol and moved to London, UK permanently for my PhD studies.
 During my studies in Cyprus I had the luck of visiting several locations in Europe (for business mostly), however, 
 I love travelling and getting to know about new cultures, people, and places.  
 In my free time I enjoy a good sci-fi movie, sailing in World of Warships, and jogging with psychos in Borderlands.
-In addition, I am a foodie and I like to cook quite often: Cypriot and mediterranean kitchen of course. 
+In addition, I am a foodie and I like to cook quite often: Cypriot and mediterranean cuisine of course. 
