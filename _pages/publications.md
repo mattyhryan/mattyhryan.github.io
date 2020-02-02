@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 Here I list some selected peer-reviewed publications of mine.  
-For a full list of my publications you can visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page.
+For the full list of my publications you can visit my [Google Scholar](https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en&oi=sra) page.
 
 **2020** 
 
