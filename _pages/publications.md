@@ -16,7 +16,7 @@ For the full list of my publications you can visit my [Google Scholar](https://s
 Kostantinos Papadamou, Antonis Papasavva, Savvas Zannettou, Jeremy Blackburn, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Michael Sirivianos  
 **Disturbed YouTube for Kids: Characterizing and Detecting Inappropriate Videos Targeting Young Children**  
 14th International AAAI Conference on Web and Social Media (ICWSM 2020)  
-<span style="background-color:#00FFFF">[pdf](/files/papadamou2020disturbed.pdf)</span>   
+<span style="background-color:#FAEBD7">[pdf](/files/papadamou2020disturbed.pdf)</span>   
 Coverage: [The New York Times](https://www.nytimes.com/2019/06/14/opinion/youtube-algorithm.html), [The Washington Post](https://www.washingtonpost.com/technology/2019/03/14/youtube-says-it-bans-preteens-its-site-its-still-delivering-troubling-content-young-children/?noredirect=on), [New Scientist](https://institutions.newscientist.com/article/2196040-children-can-find-inappropriate-videos-on-youtube-in-just-10-clicks/), [Zing](https://news.zing.vn/video-ban-nhan-nhan-va-o-li-tren-youtube-post923996.html), [Bleeping Computer](https://www.bleepingcomputer.com/news/security/researchers-create-algorithm-to-protect-kids-from-disturbing-youtube-videos/)
 
 ---
