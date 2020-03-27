@@ -13,4 +13,4 @@ author_profile: true
 
 **University Collage London**
 1. Computer Architecture and Hardware - *MSc course*
-2. Software Engineering - *BSc course*
+2. Software Engineering - *MSc course*
