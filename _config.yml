@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexandros Efstratiou"
-  avatar           : "profile.png"
+  avatar           : "face2.jpg"
   bio              : "PhD student at UCL"
   location         : "London"
   employer         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "antonis-papasavva"
-  orcid            : "https://orcid.org/0000-0001-8719-719X"
+  linkedin         : "https://www.linkedin.com/in/alexandros-efstratiou-mbpss-7518a2172/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@a_papasavva"
+  twitter          : "@alextheEfstra"
   vine             :
   weibo            :
   xing             :
