@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antonis Papasavva"
+title                    : "Alexandros Efstratiou"
 title_separator          : "-"
-name                     : &name "Antonis Papasavva"
+name                     : &name "Alexandros Efstratiou"
 description              : &description "personal description"
-url                      : https://antonispapasavva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alefstrat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  "images/500x300.png"
@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-157581709-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Antonis Papasavva"
+  name             : "Alexandros Efstratiou"
   avatar           : "profile.png"
-  bio              : "PhD researcher at UCL"
-  location         : "London, UK"
+  bio              : "PhD student at UCL"
+  location         : "London"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=O6qSkH8AAAAJ&hl=en"
-  email            : "antonis.papasavva.19@ucl.ac.uk"
-  researchgate     :  "https://www.researchgate.net/profile/Antonis_Papasavva"
+  googlescholar    : "https://scholar.google.com/citations?user=hlaOWkgAAAAJ"
+  email            : "alexandros.efstratiou.20@ucl.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Alexandros-Efstratiou"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AntonisPapasavva"
+  github           : "alefstrat"
   google_plus      :
   keybase          :
   instagram        :
