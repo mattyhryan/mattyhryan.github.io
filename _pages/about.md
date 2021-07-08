@@ -18,8 +18,8 @@ I study...
 - **MSc in Behavioural Science**  
   *Durham University*  
   Dissertation supervisor: [Dr. Mario Weick](https://www.dur.ac.uk/directory/profile/?id=17402)
-- **MSc in Education Research**
-  *The University of Edinburgh*
+- **MSc in Education Research**  
+ *The University of Edinburgh*  
   Dissertation supervisor: [Dr. Gitit Kadar-Satat](https://warwick.ac.uk/fac/sci/psych/people/kadar-satat/)
 - **BA in Economics and English Literature**  
   *The University of Connecticut*  
