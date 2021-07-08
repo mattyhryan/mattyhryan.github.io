@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandros Efstratiou"
+title                    : "Matthew Ryan"
 title_separator          : "-"
-name                     : &name "Alexandros Efstratiou"
+name                     : &name "Matthew Ryan"
 description              : &description "personal description"
-url                      : https://alefstrat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mattyhryan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  "images/500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexandros Efstratiou"
+  name             : "Matthew Ryan"
   avatar           : "profile2.jpg"
-  bio              : "PhD student at UCL"
+  bio              : "Recent MSc Graduate in Behavioral Science"
   location         : "London"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=hlaOWkgAAAAJ"
-  email            : "alexandros.efstratiou.20@ucl.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Alexandros-Efstratiou"
+  googlescholar    : 
+  email            : "mattyhryan@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alefstrat"
+  github           : "mattyhryan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alexandros-efstratiou-mbpss-7518a2172/"
+  linkedin         : "https://www.linkedin.com/in/mattyhryan/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@alextheEfstra"
+  twitter          : "@mattyhryan"
   vine             :
   weibo            :
   xing             :
