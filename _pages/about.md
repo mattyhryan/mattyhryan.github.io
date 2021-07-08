@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am undertaking a PhD in Cybersecurity at University College London [(UCL)](https://www.ucl.ac.uk/), supervised by [Prof. Emiliano De Cristofaro](https://emilianodc.com/) and [Dr Tristan Caulfield](https://www.tristancaulfield.com/). My work draws from various fields, including human-computer interaction, computer science, social psychology, and behavioral science.
+I am...
 
 ## Research
 
-I study the sociocognitive aspects of why misinformation proliferates online, and why trends of polarization are continually rising. My research takes the view that polarization can create a fertile environment for misinformation to proliferate. Primarily, I attempt to understand the motivations behind why people believe certain things over others, how these motivations impact upon information processing, and the contexts under which accuracy goals can supersede other motivations in information processing.
+I study...
 
 ## Education
 
 - **MSc in Behavioural Science**  
   *Durham University*  
-  Kurt Lewin Prize as cohort top performer  
-  Dissertation supervisor: [Dr. Andrew Marcinko](https://marcinkophd.com/)
-- **BSc in Psychology**  
-  *University of East Anglia*  
-  British Psychological Society Award for Outstanding Undergraduate Performance (cohort top performer)  
-  Dissertation supervisor: [Dr. Charles Seger](https://people.uea.ac.uk/c_seger)
+  Dissertation supervisor: [Dr. Mario Weick](https://www.dur.ac.uk/directory/profile/?id=17402)
+- **MSc in Education Research**
+  *The University of Edinburgh*
+  Dissertation supervisor: [Dr. Gitit Kadar-Satat] (https://warwick.ac.uk/fac/sci/psych/people/kadar-satat/)
+- **BA in Economics and English Literature**  
+  *The University of Connecticut*  
+  Fourth year exchange at the University of Edinburgh (Autumn Semester) and El Universidad de Belgrano (Spring Semester)
 
 ## Personal
 
-I was born in Limassol, Cyprus. I like to spend my free time as creatively as I can, and I usually spend it playing guitar or writing music, editing videos, experimenting with new food recipes (usually unsuccessfully), or reading non-fiction. When I can't be bothered to do any of those, I'll probably be playing whatever's on sale on Steam that week.
