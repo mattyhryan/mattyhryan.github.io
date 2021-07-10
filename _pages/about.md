@@ -27,3 +27,10 @@ I study...
 
 ## Personal
 
+I grew up in Franklin, Massachusetts, home of America's first public library, a train line that runs to Boston, and not a whole lot else. 
+
+After graduating from high school, I fortunate to have the opportunity to leave my small town and headed off to study at the University of Connecticut. Upon arrival, I realized I had accidentally moved to an even smaller, more rural town - complete with cows and sheep to boot.
+
+Since then, I've spent time learning Portuguese while living in Brazil, learning Spanish while living in Argentina, and learning not to block the telly in the pub when the football/rugby match is on while living in the UK.
+
+In my free time, you'll probably find watching a film, cooking something new, listening to a podcast, or lurking on twitter. Sometimes all at once.
