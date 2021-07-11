@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Ryan"
+title                    : "Matthew H. Ryan"
 title_separator          : "-"
-name                     : &name "Matthew Ryan"
+name                     : &name "Matthew H. Ryan"
 description              : &description "personal description"
 url                      : https://mattyhryan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Ryan"
+  name             : "Matthew H. Ryan"
   avatar           : "mr_pic.JPG"
   bio              : "Aspiring Researcher | Contributor at ScienceForWork.com"
   location         : 
