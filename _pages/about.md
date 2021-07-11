@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am...
+I recently finished my MSc in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a BA in Economics and English. My research interests lie at the intersection of social/organizational psychology and behavioral science, within which, I am broadly interested in examining the cognitive and behavioral effects of social hierarchies and designing interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
 
 ## Research
 
