@@ -7,13 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I recently finished my MSc in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a BA in Economics and English. My research interests lie at the intersection of social/organizational psychology and behavioral science, within which, I am broadly interested in examining the cognitive and behavioral effects of social hierarchies and designing interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
+I recently finished my MSc in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a BA in Economics and English. 
 
 ## Research Interests
 
-*Social Hierarchies, Morality, Intergroup Perception, Diversity & Inclusion*
+*Social Cognition & Perception, Social Hierarchies, Morality*
 
-I study...
+My research interests lie at the intersection of social/organizational psychology and behavioral science. From a basic science perspective, I am interested in examining the effects of social hierarchies and morality on how we perceive ourselves and evaluate others. 
+
+To understand how individuals' social cognition, emotions, and actions are affected by their position in power and status hierarchies, my research draws on social psychological and evolutionary theories. I am also interested in how hierarchies are formed and how they shape social interactions.
+
+In the moral domain, I am interested in how we respond to positive and negative deviant behaviors, the factors that motivate norm deviance and adherence, and the role of morality in impression formation and social categorization processes.
+
+On the more applied end, I am interested in using this theoretical research to design interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
+
+If you are interested in working together (or simply chatting), please feel free to get in touch.
 
 ## Education
 
