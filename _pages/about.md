@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently finished my MSc in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a BA in Economics and English, and have since begun writing articles on organizational behavior and management as a contributor for [ScienceForWork.com](https://scienceforwork.com/).
+I recently finished my MSc in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English, and have since begun writing articles on organizational behavior and management as a contributor for [ScienceForWork.com](https://scienceforwork.com/).
 
 ## Research Interests
 
