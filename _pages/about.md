@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently ran an in-person study as an RA at the [MIT Behavioral Research Lab](https://brl.mit.edu/) and am currently writing as a contributor for [ScienceForWork](https://scienceforwork.com/). Prior to this, I completed my Master of Science in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English.
+Recently, I completed my Master of Science in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since then, I ran an in-person study as an RA at the [MIT Behavioral Research Lab](https://brl.mit.edu/) and am currently writing as a contributor for [ScienceForWork](https://scienceforwork.com/). 
 
 ## Research Interests
 
