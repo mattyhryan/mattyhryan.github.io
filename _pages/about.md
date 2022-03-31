@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Recently, I completed my Master of Science in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since then, I ran an in-person study as an RA at the [MIT Behavioral Research Lab](https://brl.mit.edu/) and am currently writing as a contributor for [ScienceForWork](https://scienceforwork.com/). 
+Recently, I completed my Master of Science in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since then, I've worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant at the [MIT Behavioral Research Lab](https://brl.mit.edu/) and as a contributor for [ScienceForWork](https://scienceforwork.com/), a non-profit foundation that publishes evidence-based articles on organizational behavior and management.
 
 ## Research Interests
 
-*Social Cognition & Perception, Social Hierarchies, Morality*
+*Social Cognition & Perception, Social Hierarchies, Morality, Behavioral Science*
 
-My research interests lie at the intersection of social/organizational psychology and behavioral science. From a basic science perspective, I am interested in examining the effects of social hierarchies and morality on how we perceive ourselves and evaluate others. On the more applied end, I am interested in using the behavioral insights gained from this theoretical research to design interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
+My research interests lie at the intersection of social/organizational psychology, organizational behavior and management, and behavioral science. From a basic science perspective, I am broadly interested in examining the social and organizational consquences of hierarchies and morality on how we perceive ourselves and evaluate others. On the more applied end, I am interested in using the behavioral insights gained from this theoretical research to design interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
 
 To understand how individuals' social cognition, emotions, and behaviors are affected by their position in power and status hierarchies, my research draws on social psychological and evolutionary theories. I am also interested in how hierarchies are formed and how they shape social interactions.
 
 In the moral domain, I am interested in how we respond to positive and negative deviant behaviors, the factors that motivate norm deviance and adherence, and the role of morality in impression formation and social categorization processes.
+
+Finally, I am also interested in using behavioral science insights more generally to develop evidence-based interventions that address social- and educational-based inequities.
 
 If you are interested in working together (or simply chatting), please feel free to get in touch.
 
