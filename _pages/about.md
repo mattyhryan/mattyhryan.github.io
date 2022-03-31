@@ -11,7 +11,7 @@ Recently, I completed my Master of Science in Behavioral Science at Durham Unive
 
 ## Research Interests
 
-*Social Cognition & Perception, Social Hierarchies, Morality, Behavioral Science*
+*Social Cognition & Perception, Social Hierarchies, Morality, Behavioral Change*
 
 My research interests lie at the intersection of social/organizational psychology, organizational behavior and management, and behavioral science. From a basic science perspective, I am broadly interested in examining the social and organizational consquences of hierarchies and morality on how we perceive ourselves and evaluate others. On the more applied end, I am interested in using the behavioral insights gained from this theoretical research to design interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
 
