@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Recently, I completed my Master of Science in Behavioral Science at Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since then, I've worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant at the [MIT Behavioral Research Lab](https://brl.mit.edu/) and as a contributor for [ScienceForWork](https://scienceforwork.com/), a non-profit foundation that publishes evidence-based articles on organizational behavior and management.
-
+In 2021, I received my MSc in Behavioural Science from Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since graduating, I’ve worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant in the [MIT Behavioral Research Lab](https://brl.mit.edu/) at the MIT Sloan School of Management, as a contributor for [ScienceForWork](https://scienceforwork.com/) -- a non-profit foundation that publishes evidence-based articles on organizational behavior and management, and I am currently working as the Research Technician in the [Ross Behavioral Lab](https://cores.research.umich.edu/core/ross-behavioral-lab/) at the University of Michigan’s Ross School of Business. 
+ 
 ## Research Interests
 
 *Social Cognition & Perception, Social Hierarchies, Morality, Behavioral Change*
@@ -37,10 +37,12 @@ If you are interested in working together (or simply chatting), please feel free
 
 ## Personal
 
-I grew up in Franklin, Massachusetts, home of America's first public library, a commuter train that runs to Boston, and not a whole lot else. 
+I grew up in Franklin, Massachusetts, home of America's first public library, a commuter train that runs to Boston, and not much else. 
 
 After graduating from high school, I was fortunate to have the opportunity to leave my small town and headed off to study at the University of Connecticut. Upon arrival, I realized I had accidentally moved to an even smaller, more rural town - complete with cows and sheep to boot!
 
 Since then, I've spent time learning Portuguese while living in Brazil, learning Spanish while living in Argentina, and learning not to block the telly in the pub when the football/rugby match is on while living in the UK (in addition to completing two postgraduate programs).
+
+I now live in Michigan and am desperately trying to figure out what a wolverine is. 
 
 In my free time, you'll probably find me watching a film, cooking something new, listening to a podcast, or lurking on twitter - sometimes, all at once.
