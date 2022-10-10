@@ -11,13 +11,15 @@ In 2021, I received my MSc in Behavioural Science from Durham University, having
  
 ## Research Interests
 
-*Social Cognition & Perception, Social Hierarchies, Morality, Behavioral Change*
+*Status, Power, & Leadership | Morality | Behavioral Change*
 
-My research interests lie at the intersection of social/organizational psychology, organizational behavior and management, and behavioral science. From a basic science perspective, I am broadly interested in examining the social and organizational consquences of hierarchies and morality on how we perceive ourselves and evaluate others. On the more applied end, I am interested in using the behavioral insights gained from this theoretical research to design interventions aimed at reducing discrimination and promoting inclusivity and pro-social behaviors. 
+My research interests lie at the intersection of social/organizational psychology, organizational behavior and management, and behavioral science. From a basic science perspective, I am broadly interested in examining the social and organizational consequences of social hierarchies and morality on how we perceive ourselves and evaluate the individuals and groups around us.
 
-To understand how individuals' social cognition, emotions, and behaviors are affected by their position in power and status hierarchies, my research draws on social psychological and evolutionary theories. I am also interested in how hierarchies are formed and how they shape social interactions.
+To understand how an individual’s position in power and status hierarchies affect their social cognition, emotions, behaviors, and perceptions of others my research draws on social psychological and evolutionary theories. I am also interested in the intersection between power, status, and leadership and am particularly keen to explore how these three concepts emerge at the micro-level across different hierarchical contexts and how the psychological experience of these three concepts differ. 
 
-In the moral domain, I am interested in how we respond to positive and negative deviant behaviors, the factors that motivate norm deviance and adherence, and the role of morality in impression formation and social categorization processes.
+In the moral domain, I am interested in how we respond to positive and negative deviant behaviors, the factors that motivate norm deviance and adherence, and the role of morality in impression formation/updating processes and in shaping our categorizations and judgements of others.
+
+On the more applied end, I am interested in using the behavioral insights generated from this theoretical research to design interventions aimed at promoting inclusivity, diversity, and pro-social behaviors and reducing prejudicial and discriminatory behaviors. For instance, insights from the stream of research on social hierarchies and influence could be applied to help to non-stereotypical leadership candidates attain and maintain higher hierarchical positions. 
 
 Finally, I am also interested in using behavioral science insights more generally to develop evidence-based interventions that address social- and educational-based inequities.
 
