@@ -11,7 +11,7 @@ In 2021, I received my MSc in Behavioural Science from Durham University, having
  
 ## Research Interests
 
-*Status, Power, & Leadership | Morality | Behavioral Change*
+*Social Hierarchies, Morality, & Behavioral Change*
 
 My research interests lie at the intersection of social/organizational psychology, organizational behavior and management, and behavioral science. From a basic science perspective, I am broadly interested in examining the social and organizational consequences of social hierarchies and morality on how we perceive ourselves and evaluate the individuals and groups around us.
 
