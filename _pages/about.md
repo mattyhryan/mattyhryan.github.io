@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In 2021, I received my MSc in Behavioural Science from Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since graduating, I’ve worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant in the [MIT Behavioral Research Lab](https://brl.mit.edu/) at the MIT Sloan School of Management, as a contributor for [ScienceForWork](https://scienceforwork.com/) -- a non-profit foundation that publishes evidence-based articles on organizational behavior and management, and I am currently working as the Research Technician in the [Ross Behavioral Lab](https://cores.research.umich.edu/core/ross-behavioral-lab/) at the University of Michigan’s Ross School of Business. 
+In 2021, I received my MSc in Behavioural Science from Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. Since graduating, I’ve worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant in the [MIT Behavioral Research Lab](https://brl.mit.edu/) at the MIT Sloan School of Management, as a contributor for [ScienceForWork](https://scienceforwork.com/) -- a non-profit foundation that publishes evidence-based articles on organizational behavior and management -- and, most recently, I served as the Research Technician in the [Ross Behavioral Lab](https://cores.research.umich.edu/core/ross-behavioral-lab/) at the University of Michigan’s Ross School of Business. 
  
 ## Research Interests
 
