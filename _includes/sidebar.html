@@ -2,35 +2,44 @@
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-    {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-    
-    <!-- Add the Letterboxd link here -->
-    {% if site.author.letterboxd %}
-      <div class="sidebar-item">
-        <h3>Find Me On:</h3>
-        <ul class="social-icons">
-          <li><a href="{{ site.author.letterboxd }}"><i class="fab fa-letterboxd" aria-hidden="true"></i> Letterboxd</a></li>
-        </ul>
-      </div>
+  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  
+  <!-- Your existing links -->
+  <ul class="social-links">
+    {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a></li>
     {% endif %}
-    
-    {% if page.sidebar %}
-      {% for s in page.sidebar %}
-        {% if s.image %}
-          <img src=
-          {% if s.image contains "://" %}
-            "{{ s.image }}"
-          {% else %}
-            "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+    {% if site.author.twitter %}
+      <li><a href="https://twitter.com/{{ site.author.twitter | remove: '@' }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if site.author.linkedin %}
+      <li><a href="https://linkedin.com/in/{{ site.author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.letterboxd %} 
+      <li><a href="{{ site.author.letterboxd }}"><i class="fab fa-letterboxd" aria-hidden="true"></i> Letterboxd</a></li>
+    {% endif %}
+  </ul>
+  
+  {% if page.sidebar %}
+    {% for s in page.sidebar %}
+      {% if s.image %}
+        <img src=
+        {% if s.image contains "://" %}
+          "{{ s.image }}"
+        {% else %}
+          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
-        {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-        {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      {% endfor %}
-      {% if page.sidebar.nav %}
-        {% include nav_list nav=page.sidebar.nav %}
+        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
+      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    {% endfor %}
+    {% if page.sidebar.nav %}
+      {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
+  {% endif %}
   </div>
 {% endif %}
