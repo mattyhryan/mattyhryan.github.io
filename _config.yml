@@ -84,7 +84,7 @@ author:
   avatar           : "mr_pic.JPG"
   bio              : "Organisational Behaviour PhD Student at London Business School"
   location         : "London, UK"
-  employer         : "London Business School [https://www.london.edu/](london.edu)"
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "mryan@london.edu"
@@ -115,8 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  lbs_page         : # https://www.london.edu/phd/profiles/matthew-ryan
-  letterboxd       : # https://letterboxd.com/mattyhryan/
+  lbs_page         : "https://www.london.edu/phd/profiles/matthew-ryan"
+  letterboxd       : "https://letterboxd.com/mattyhryan/"
+
 
 
 # Reading Files
