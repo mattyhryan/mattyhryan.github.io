@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Matthew H. Ryan"
   avatar           : "mr_pic.JPG"
-  bio              : "Researching Morality and Social Hierarchies at London Business School"
+  bio              : "Researching Hierarchies and Morality at London Business School"
   location         : "London, UK"
-  employer         : 
+  employer         : "London Business School [https://www.london.edu/]
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "mattyhryan@gmail.com"
+  email            : "mryan@london.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  letterboxd       : "mattyhryan"
+  letterboxd       : "https://letterboxd.com/mattyhryan/"
 
 
 # Reading Files
