@@ -43,7 +43,7 @@ If you are interested in working together (or simply chatting), please feel free
 
 ## Personal
 
-I grew up in Franklin, Massachusetts, home of America's first public library, one of the oldest active one-room schools in the United States, a commuter train that runs to Boston, and not much else
+I grew up in Franklin, Massachusetts, home of America's first public library, one of the oldest active one-room schools in the United States, a commuter train that runs to Boston, and not much else.
 
 After graduating from high school, I was fortunate enough to leave my small town and headed off to study at the University of Connecticut. Upon arrival, I realized I had accidentally moved to an even smaller, more rural town—complete with cows and sheep to boot!
 
