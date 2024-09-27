@@ -29,7 +29,7 @@ If you are interested in working together (or simply chatting), please feel free
 
 - **PhD in Organisational Behaviour**  
   *London Business School*  
-  Dissertation supervisor: [Dr. Randall Peterson](https://www.london.edu/faculty-and-research/faculty-profiles/p/peterson-r-s)
+  Dissertation supervisor: [Dr. Randall Peterson](https://www.london.edu/faculty-and-research/faculty-profiles/p/peterson-r-s)<br>
   First-year supervisor: [Dr. Selin Kesebir](https://www.london.edu/faculty-and-research/faculty-profiles/k/kesebir-s)
 - **MSc in Behavioural Science**  
   *Durham University*  
@@ -43,10 +43,10 @@ If you are interested in working together (or simply chatting), please feel free
 
 ## Personal
 
-I grew up in Franklin, Massachusetts, home of America's first public library, a commuter train that runs to Boston, and not much else. 
+I grew up in Franklin, Massachusetts, home of America's first public library, one of the oldest active one-room schools in the United States, a commuter train that runs to Boston, and not much else
 
-After graduating from high school, I was fortunate to have the opportunity to leave my small town and headed off to study at the University of Connecticut. Upon arrival, I realized I had accidentally moved to an even smaller, more rural town - complete with cows and sheep to boot!
+After graduating from high school, I was fortunate enough to leave my small town and headed off to study at the University of Connecticut. Upon arrival, I realized I had accidentally moved to an even smaller, more rural town—complete with cows and sheep to boot!
 
-Since then, I've spent time learning Portuguese while living in Brazil, learning Spanish while living in Argentina, and learning not to block the telly in the pub when the football is on while living in the UK (in addition to completing two postgraduate programs and starting a third).
+Since then, I’ve spent time learning Portuguese while living in Brazil, picking up Spanish in Argentina, and mastering the art of not blocking the telly in the pub when football is on while living in the UK—all while completing two postgraduate programs and starting a third.
 
-In my free time, you'll probably find me at the cinema, sipping espresso at a coffee house, or running through the streets of London.
+In my free time, you’ll probably find me at the cinema, sipping espresso at a coffee house, or dodging tourists while running through the streets of London.
