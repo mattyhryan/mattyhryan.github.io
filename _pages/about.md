@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Organisational Behaviour at [London Business School](london.edu) (LBS). My research focuses on how informal social hierarchies, formal organizational hierarchies, and morality affect how we think, behave, and interact with others.
+I am a second year PhD student in Organisational Behaviour at [London Business School](https://www.london.edu/) (LBS). My research focuses on how informal social hierarchies, formal organizational hierarchies, and morality affect how we think, behave, and interact with others.
 
 Prior to starting my PhD, I received my MSc in Behavioural Science from Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. I have previously worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant in the [MIT Behavioral Research Lab](https://brl.mit.edu/) at the MIT Sloan School of Management, as the Research Technician in the [Ross Behavioral Lab](https://cores.research.umich.edu/core/ross-behavioral-lab/) at the University of Michigan’s Ross School of Business, and with [Dr. Erika Kirgios](https://www.chicagobooth.edu/faculty/directory/k/erika-kirgios) as a research assistant at Chicago Booth.
  
