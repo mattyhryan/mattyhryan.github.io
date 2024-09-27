@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Organisational Behaviour at [London Business School](london.edu) (LBS). My research focuses on how formal organizational hierarchies, informal social hierarchies, and morality affect how we think, behave, and interact with others.
+I am a second year PhD student in Organisational Behaviour at [London Business School](london.edu) (LBS). My research focuses on how informal social hierarchies, formal organizational hierarchies, and morality affect how we think, behave, and interact with others.
 
 Prior to starting my PhD, I received my MSc in Behavioural Science from Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. I have previously worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant in the [MIT Behavioral Research Lab](https://brl.mit.edu/) at the MIT Sloan School of Management, as the Research Technician in the [Ross Behavioral Lab](https://cores.research.umich.edu/core/ross-behavioral-lab/) at the University of Michigan’s Ross School of Business, and with [Dr. Erika Kirgios](https://www.chicagobooth.edu/faculty/directory/k/erika-kirgios) as a research assistant at Chicago Booth.
  
 ## Research Interests
 
-*Social Hierarchies, Organizational Hierarchies, & Morality*
+*Social Hierarchies, Organizational Stuctures, & Morality*
 
-My research interests lie at the intersection of social/organizational psychology, organizational design, and organizational behavior and management. I am broadly interested in examining the social and organizational consequences of hierarchies and morality on how we perceive ourselves and evaluate the individuals and groups around us.
+My research interests lie at the intersection of social/organizational psychology, organizational behavior and management, and, recently, organizational design. I am broadly interested in examining the social and organizational consequences of hierarchies and morality on how we perceive ourselves and evaluate the individuals and groups around us.
 
-To understand how an individual’s position in power and status hierarchies affect their social cognition, emotions, behaviors, and perceptions of others my research draws on social psychological and evolutionary theories. I am also interested in the intersection between power, status, and leadership and am particularly keen to explore how these three concepts emerge at the micro-level across different hierarchical contexts and how the psychological experience of these three concepts differ.
+To understand how an individual’s position in power and status hierarchies affects their social cognition, emotions, behaviors, and perceptions of others, my research draws on social psychological and evolutionary theories. I am also interested in the intersection of power, status, and leadership, particularly how these three concepts emerge at the micro-level across different hierarchical contexts and how the psychological experience of these concepts differs.
 
-In the moral domain, I am interested in how we respond to positive and negative deviant behaviors, the factors that motivate norm deviance and adherence, and the role of morality in impression formation/updating processes and in shaping our categorizations and judgements of others.
+Recently, I have begun to explore these questions from an organizational design perspective, considering the impact of organizational structures on employee perceptions and behaviors. In particular, I am interested in the interplay between informal hierarchies based on rank and formal hierarchies based on authority, and how employee perspectives can help us design organizations that optimize both organizational effectiveness and employee outcomes.
 
-On the more applied end, I am interested in using the behavioral insights generated from this theoretical research to design interventions aimed at promoting inclusivity, diversity, and pro-social behaviors and reducing prejudicial and discriminatory behaviors. For instance, insights from the stream of research on social hierarchies and influence could be applied to help to non-stereotypical leadership candidates attain and maintain higher hierarchical positions. 
+In the moral domain, I am interested in how we respond to positive and negative deviant behaviors, the factors that motivate norm deviance and adherence, and the role of morality in impression formation and updating processes, as well as in shaping our categorizations and judgments of others.
 
 If you are interested in working together (or simply chatting), please feel free to get in touch.
 
