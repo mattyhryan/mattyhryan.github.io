@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Organisational Behaviour at London Business School. My research focuses on how formal organizational hierarchies, informal social hierarchies, and morality affect how we think, behave, and interact with others.
+I am a second year PhD student in Organisational Behaviour at [London Business School](london.edu) (LBS). My research focuses on how formal organizational hierarchies, informal social hierarchies, and morality affect how we think, behave, and interact with others.
 
 Prior to starting my PhD, I received my MSc in Behavioural Science from Durham University, having previously completed an MSc in Education Research and a dual BA in Economics and English. I have previously worked with [Dr. Jared Curhan](http://web.mit.edu/curhan/www/) as a research assistant in the [MIT Behavioral Research Lab](https://brl.mit.edu/) at the MIT Sloan School of Management, as the Research Technician in the [Ross Behavioral Lab](https://cores.research.umich.edu/core/ross-behavioral-lab/) at the University of Michigan’s Ross School of Business, and with [Dr. Erika Kirgios](https://www.chicagobooth.edu/faculty/directory/k/erika-kirgios) as a research assistant at Chicago Booth.
  
@@ -30,6 +30,7 @@ If you are interested in working together (or simply chatting), please feel free
 - **PhD in Organisational Behaviour**  
   *London Business School*  
   Dissertation supervisor: [Dr. Randall Peterson]( https://www.london.edu/faculty-and-research/faculty-profiles/p/  peterson-r-s)
+  First-year supervisor: [Dr. Selin Kesebir](https://www.london.edu/faculty-and-research/faculty-profiles/k/kesebir-s)
 - **MSc in Behavioural Science**  
   *Durham University*  
   Dissertation supervisor: [Dr. Mario Weick](https://www.dur.ac.uk/directory/profile/?id=17402)
@@ -48,4 +49,4 @@ After graduating from high school, I was fortunate to have the opportunity to le
 
 Since then, I've spent time learning Portuguese while living in Brazil, learning Spanish while living in Argentina, and learning not to block the telly in the pub when the football is on while living in the UK (in addition to completing two postgraduate programs and starting a third).
 
-In my free time, you'll probably find me at the cinema, sipping espresso, or running through the streets of London.
+In my free time, you'll probably find me at the cinema, sipping espresso at a coffee house, or running through the streets of London.
