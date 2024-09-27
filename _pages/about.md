@@ -29,7 +29,7 @@ If you are interested in working together (or simply chatting), please feel free
 
 - **PhD in Organisational Behaviour**  
   *London Business School*  
-  Dissertation supervisor: [Dr. Randall Peterson]( https://www.london.edu/faculty-and-research/faculty-profiles/p/  peterson-r-s)
+  Dissertation supervisor: [Dr. Randall Peterson](https://www.london.edu/faculty-and-research/faculty-profiles/p/peterson-r-s)
   First-year supervisor: [Dr. Selin Kesebir](https://www.london.edu/faculty-and-research/faculty-profiles/k/kesebir-s)
 - **MSc in Behavioural Science**  
   *Durham University*  
