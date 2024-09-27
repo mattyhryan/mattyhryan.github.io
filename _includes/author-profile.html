@@ -117,6 +117,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.personal_website %}
+        <li><a href="{{ author.personal_website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Personal Website</a></li>
 {% endif %}
     </ul>
   </div>
